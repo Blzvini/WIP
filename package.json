@@ -1,0 +1,15 @@
+{
+  "name": "wip",
+  "version": "1.0.0",
+  "description": "# Visão resumida do projeto",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0"
+  }
+}
