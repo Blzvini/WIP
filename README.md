@@ -10,9 +10,9 @@ A proposta não é substituir mapas tradicionais, mas humanizá-los, destacando 
 
 # Proposta de Valor (o “porquê” do projeto)
 
-- Descobrir o bairro como um todo, sendo morador ou turista  
-- Dar visibilidade a pequenos empreendedores locais  
-- Facilitar conexões reais entre pessoas e lugares  
+- Descobrir o bairro como um todo, sendo morador ou turista
+- Dar visibilidade a pequenos empreendedores locais
+- Facilitar conexões reais entre pessoas e lugares
 
 > **“Não é um mapa de lugares.  
 > É um mapa de pessoas e do que elas constroem no bairro.”**
@@ -24,11 +24,12 @@ A proposta não é substituir mapas tradicionais, mas humanizá-los, destacando 
 ## 1. Visitante (sem cadastro)
 
 **Pode:**
-- Acessar o site livremente  
-- Permitir uso da localização atual  
-- Visualizar o mapa com um raio configurável (ex: 500m, 1km, 5km)  
-- Buscar bairros, cidades ou endereços específicos  
-- Ver estabelecimentos, descrições, fotos e avaliações  
+
+- Acessar o site livremente
+- Permitir uso da localização atual
+- Visualizar o mapa com um raio configurável (ex: 500m, 1km, 5km)
+- Buscar bairros, cidades ou endereços específicos
+- Ver estabelecimentos, descrições, fotos e avaliações
 
 **Objetivo:** explorar e conhecer
 
@@ -37,11 +38,13 @@ A proposta não é substituir mapas tradicionais, mas humanizá-los, destacando 
 ## 2. Usuário Cadastrado
 
 **Pode:**
-- Avaliar estabelecimentos (0 a 5 estrelas)  
-  - Comentário obrigatório junto da avaliação  
-- Denunciar avaliações ou cadastros suspeitos  
+
+- Avaliar estabelecimentos (0 a 5 estrelas)
+  - Comentário obrigatório junto da avaliação
+- Denunciar avaliações ou cadastros suspeitos
 
 📌 **Validações importantes**
+
 - Verificação de conta (necessário definir as validações)
 
 **Objetivo:** participar e validar a comunidade
@@ -51,25 +54,28 @@ A proposta não é substituir mapas tradicionais, mas humanizá-los, destacando 
 ## 3. Cadastrador de Estabelecimento
 
 **Pode cadastrar locais com ou sem CNPJ, como:**
-- Vendas caseiras (salgados, doces, marmitas)  
-- Serviços informais (costura, manutenção, aulas)  
-- Pequenos comércios de bairro  
+
+- Vendas caseiras (salgados, doces, marmitas)
+- Serviços informais (costura, manutenção, aulas)
+- Pequenos comércios de bairro
 
 **Informações do estabelecimento:**
-- Nome  
-- Categoria  
-- Descrição  
-- Endereço (fixo no mapa)  
-- Contato (WhatsApp, Instagram, telefone)  
-- Fotos do local e/ou produtos  
-- Horários (opcional)  
+
+- Nome
+- Categoria
+- Descrição
+- Endereço (fixo no mapa)
+- Contato (WhatsApp, Instagram, telefone)
+- Fotos do local e/ou produtos
+- Horários (opcional)
 
 🔒 **Validação de autenticidade (fundamental)**
-- Envio de fotos reais do local  
+
+- Envio de fotos reais do local
 - Status do local:
-  - Em análise  
-  - Verificado  
-  - Não verificado  
+  - Em análise
+  - Verificado
+  - Não verificado
 
 **Objetivo:** dar visibilidade sem burocracia excessiva
 
@@ -79,8 +85,8 @@ A proposta não é substituir mapas tradicionais, mas humanizá-los, destacando 
 
 O mapa vira o **hub de descoberta**, mas a ação final pode ir para outras plataformas:
 
-- **Comprar:** iFood, 99, Keeta  
-- **Navegar:** Waze, Google Maps  
-- **Chegar até lá:** Uber  
+- **Comprar:** iFood, 99, Keeta
+- **Navegar:** Waze, Google Maps
+- **Chegar até lá:** Uber
 
 📌 **O projeto não vende, ele conecta.**
