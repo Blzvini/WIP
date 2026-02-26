@@ -89,4 +89,10 @@ O mapa vira o **hub de descoberta**, mas a ação final pode ir para outras plat
 - **Navegar:** Waze, Google Maps
 - **Chegar até lá:** Uber
 
+# Figma do projeto
+
+V1.0
+
+[Figma](https://www.figma.com/site/fsiW86yfSAUJ5b2celgWiS/WIP---Projeto-portifolio?t=VRsG1z3vbxkMzc4o-1)
+
 📌 **O projeto não vende, ele conecta.**
