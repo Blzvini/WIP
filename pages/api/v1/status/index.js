@@ -28,7 +28,6 @@ async function status(req, res) {
       },
     },
   });
-  console.log(database);
 }
 
 export default status;
