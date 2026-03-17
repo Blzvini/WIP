@@ -1,13 +1,12 @@
 import migrationRunner from "node-pg-migrate";
 import { join } from "node:path";
 import database from "infra/database.js";
-import { request } from "node:http";
 
 export default async function migrations(req, res) {
   const allowedMethods = ["GET", "POST"];
   if (!allowedMethods.includes(req.method)) {
     return res.status(405).json({
-      error: `Method "${request.method}" not allowed`,
+      error: `Method "${req.method}" not allowed`,
     });
   }
 
