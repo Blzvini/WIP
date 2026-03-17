@@ -95,4 +95,4 @@ V1.0
 
 [Figma](https://www.figma.com/site/fsiW86yfSAUJ5b2celgWiS/WIP---Projeto-portifolio?t=VRsG1z3vbxkMzc4o-1)
 
-📌 **O projeto não vende, ele conecta.**
+**O projeto não vende, ele conecta.**
