@@ -1,8 +1,9 @@
 /* eslint-disable no-unused-vars */
-/* eslint-disable camelcase */
 
-exports.shorthands = undefined;
+const shorthands = undefined;
 
-exports.up = (pgm) => {};
+const up = (pgm) => {};
 
-exports.down = (pgm) => {};
+const down = (pgm) => {};
+
+export { shorthands, up, down };
