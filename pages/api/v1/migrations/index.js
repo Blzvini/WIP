@@ -1,5 +1,5 @@
-import migrationRunner from "node-pg-migrate";
 import { join } from "node:path";
+import { runner as migrationRunner } from "node-pg-migrate";
 import database from "infra/database.js";
 
 export default async function migrations(req, res) {
