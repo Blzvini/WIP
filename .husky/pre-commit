@@ -1,0 +1,9 @@
+echo "🔍 di olho nas secrets... 👀"
+
+npx secretlint "**/*" || {
+  echo ""
+  echo "🚨 Você está tentando commitar suas secrets!"
+  exit 1
+}
+
+echo "🟢 Nenhuma Secret encontrada."
